@@ -29,14 +29,6 @@ let idSelectName ="";
 let lstUsers = [];
 let scopeUser = "";
 
-
-// var cookie_options = {
-//     expires: 365,
-//     path: '/',
-//     domain: 'webdiproavilm.dev.com',
-//     secure: true
-// };
-
 function initial(){
     /**
      * Verificar si tiene iniciado la session
@@ -61,7 +53,6 @@ function initial(){
                 ruta = lstMenu[0].child[0].route;
             }
             selectRuta(ruta);
-            // console.log(apiToken);
         },1000)
     }
 
@@ -177,6 +168,7 @@ async function selectRuta(route, args = ''){
     // controller = `/src/Controllers/${route}Controller.php?args=125`;
     // $("#divbody").load(controller)
     controller = `src/Controllers/BaseController.php?cont=${route}&title=${title}&args=${args}`;
+    // console.log(controller)
     $("#divbody").load(controller)
 }
 

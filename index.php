@@ -1,4 +1,7 @@
 <?PHP
+// error_reporting(E_ALL);
+error_reporting(0);
+date_default_timezone_set ("America/Guayaquil");
 define("DEBUG_MODE", true);
 define('BASE_URL', 'http://localhost/test/work01/');
 ?>
