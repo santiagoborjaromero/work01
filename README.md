@@ -1,4 +1,4 @@
-![6UG8](logo6UG8.jpg)
+![6UG8](assets/images/logo6UG8.jpg)
 # 6UG8 WEB APP
 
 # Work01 de prueba
