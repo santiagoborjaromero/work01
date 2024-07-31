@@ -29,3 +29,12 @@ Dr. Ya tu sabes <br>
 - JavaScript
 - HTML
 - CSS
+
+## La ruta de los archivos
+
+```
+┌index.php
+└───/assets/js/main.js 
+    └───>Si no esta logueado -> /src/views/login/login.php 
+    └───>Si esta logueado -> /src/views/admin/admin.php
+```
