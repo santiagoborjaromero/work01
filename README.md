@@ -18,7 +18,10 @@ Joel Darío Brito Parra <br>
 Ricardo Josué Vaca Miño <br>
 
 ## Docentes
-
+>Ing. Rita Diaz
+Ing. Diego Palma
+Ing. No se que
+Dr. Ya tu sabes
 ## Recursos utilizados
 
 - PHP
