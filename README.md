@@ -18,6 +18,10 @@ Joel Darío Brito Parra <br>
 Ricardo Josué Vaca Miño <br>
 
 ## Docentes
+Ing. Rita Diaz, Mc.
+Ing. Diego Palma, Mc.
+
+
 
 ## Recursos utilizados
 
