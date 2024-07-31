@@ -18,10 +18,10 @@ Joel Darío Brito Parra <br>
 Ricardo Josué Vaca Miño <br>
 
 ## Docentes
->Ing. Rita Diaz
-Ing. Diego Palma
-Ing. No se que
-Dr. Ya tu sabes
+>Ing. Rita Diaz <br>
+Ing. Diego Palma <br>
+Ing. No se que <br>
+Dr. Ya tu sabes <br>
 ## Recursos utilizados
 
 - PHP
